@@ -1,1 +1,1 @@
-MERN part 2, stage 1
+MERN part 2, stage 2
